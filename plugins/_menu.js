@@ -160,9 +160,9 @@ renderLargerThumbnail: true
     throw e
   }
 }
-handler.help = ['menu']
+handler.help = ['menu','اوامر']
 handler.tags = ['infobot']
-handler.command = ['menu','j','list'] 
+handler.command = ['menu','اوامر'j','list'] 
 handler.register = false
 
 
